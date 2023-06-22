@@ -3,9 +3,10 @@
 <h3 align="center">I'm passionate about Data Analytics / Science / Engineering.</h3>
 <img aling="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif">
 
-- 👨‍💻 All of my projects are available at:
-		[Data Analytics, ETL in Python with Pandas and Looker Studio API Google](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio)
-		[Data Science, Web scraping Models Prediction Clasification and more](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX)
+👨‍💻 All of my projects are available at:
+
+* [Data Analytics, ETL in Python with Pandas and Looker Studio API Google](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio)
+* [Data Science, Web scraping Models Prediction Clasification and more](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX)
 
 
 <h3 align="left">Connect with me:</h3>
