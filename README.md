@@ -5,9 +5,9 @@
 
 👨‍💻 All of my projects are available at:
 
-- [Data Analytics. Extract, transform and load in Python with Pandas and Looker Studio API Google](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio)
-- [Data Science. Web scraping Models Prediction Clasification and more](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX)
-- [Data Science for Business ](https://github.com/bastianastudillo98/DataScienceforBusiness)
+- [Data Analytics](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio)
+- [Data Science IBM ](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX)
+- [Data Science for Business](https://github.com/bastianastudillo98/DataScienceforBusiness)
   * [Human Resources](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/HumanResources)
   * [Marketing Department](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/MarketingDepartment)
 
