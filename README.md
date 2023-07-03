@@ -7,9 +7,10 @@
 
 - [Data Analyst](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio)
 - [Data Science IBM ](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX)
-- [Data Science for Business](https://github.com/bastianastudillo98/DataScienceforBusiness)
+- [Projects Data Science](https://github.com/bastianastudillo98/DataScienceforBusiness)
   * [Human Resources](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/HumanResources)
   * [Marketing Department](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/MarketingDepartment)
+  * [Pulmonary Diseases](https://github.com/bastianastudillo98/Projects-Data-Science-/tree/main/Pulmonary%20Diseases)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
