@@ -6,7 +6,9 @@
 👨‍💻 All of my projects are available at:
 
 - [Data Analyst](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio)
+  * [Rent Car](https://github.com/bastianastudillo98/Data_Analyst/tree/main/Rent_Car)
 - [Data Science IBM ](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX)
+  * [SpaceX IBM](https://github.com/bastianastudillo98/Data-ScienceIBM/tree/master/SpaceX_IBM)
 - [Projects Data Science](https://github.com/bastianastudillo98/DataScienceforBusiness)
   * [Human Resources](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/HumanResources)
   * [Marketing Department](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/MarketingDepartment)
