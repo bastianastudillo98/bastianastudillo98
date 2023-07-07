@@ -9,7 +9,7 @@
   * [Rent a Car](https://github.com/bastianastudillo98/Data_Analyst/tree/main/Rent_Car)
 - [Data Science IBM ](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX)
   * [SpaceX ](https://github.com/bastianastudillo98/Data-ScienceIBM/tree/master/SpaceX_IBM)
-- [Projects Data Science](https://github.com/bastianastudillo98/DataScienceforBusiness)
+- [Proyectos Data Science](https://github.com/bastianastudillo98/DataScienceforBusiness)
   * [Recursos Humanos](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/HumanResources)
   * [Departamento de Marketing](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/MarketingDepartment)
   * [Enfermedades pulmonares](https://github.com/bastianastudillo98/Projects-Data-Science-/blob/main/README.md)
