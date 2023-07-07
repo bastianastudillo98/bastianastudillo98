@@ -12,7 +12,7 @@
 - [Proyectos Data Science](https://github.com/bastianastudillo98/DataScienceforBusiness)
   * [Recursos Humanos](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/HumanResources)
   * [Departamento de Marketing](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/MarketingDepartment)
-  * [Enfermedades pulmonares](https://github.com/bastianastudillo98/Projects-Data-Science-/blob/main/README.md)
+  * [Enfermedades pulmonares](https://github.com/bastianastudillo98/Projects-Data-Science-/blob/main/Pulmonary%20Diseases/README.md)
 - [Analísis Financiero](https://github.com/bastianastudillo98/Financial-analysis)
   * [AMAZON Predicciones](https://github.com/bastianastudillo98/Analisis-Financiero/blob/main/Amazon%20Financial%20Analysis/Readme.md)
 <h3 align="left">Connect with me:</h3>
