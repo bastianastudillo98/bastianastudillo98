@@ -6,15 +6,15 @@
 👨‍💻 All of my projects are available at:
 
 - [Data Analyst](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio)
-  * [Rent Car](https://github.com/bastianastudillo98/Data_Analyst/tree/main/Rent_Car)
+  * [Rent a Car](https://github.com/bastianastudillo98/Data_Analyst/tree/main/Rent_Car)
 - [Data Science IBM ](https://github.com/bastianastudillo98/IBM-Data_Science-SpaceX)
-  * [SpaceX IBM](https://github.com/bastianastudillo98/Data-ScienceIBM/tree/master/SpaceX_IBM)
+  * [SpaceX ](https://github.com/bastianastudillo98/Data-ScienceIBM/tree/master/SpaceX_IBM)
 - [Projects Data Science](https://github.com/bastianastudillo98/DataScienceforBusiness)
-  * [Human Resources](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/HumanResources)
-  * [Marketing Department](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/MarketingDepartment)
-  * [Pulmonary Diseases](https://github.com/bastianastudillo98/Projects-Data-Science-/tree/main/Pulmonary%20Diseases)
-- [Financial Analysis](https://github.com/bastianastudillo98/Financial-analysis)
-  * [AMAZON Analysis](https://github.com/bastianastudillo98/Financial-analysis/blob/main/Amazon%20Financial%20Analysis/AMZN.pdf)
+  * [Recursos Humanos](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/HumanResources)
+  * [Departamento de Marketing](https://github.com/bastianastudillo98/DataScienceforBusiness/tree/main/MarketingDepartment)
+  * [Enfermedades pulmonares](https://github.com/bastianastudillo98/Projects-Data-Science-/tree/main/Pulmonary%20Diseases)
+- [Analísis Financiero](https://github.com/bastianastudillo98/Financial-analysis)
+  * [AMAZON Predicciones](https://github.com/bastianastudillo98/Financial-analysis/blob/main/Amazon%20Financial%20Analysis/AMZN.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bastudillofica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastianastudillo98" height="30" width="40" /></a>
